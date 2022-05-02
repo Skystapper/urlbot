@@ -1,6 +1,6 @@
 ## X-URL-Uploader (Bot)
 ---
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Skystapper/urlbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Skystapper/urlbot/tree/dev)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Skystapper/urlbot)
 
